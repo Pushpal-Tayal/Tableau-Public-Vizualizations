@@ -1,4 +1,3 @@
-# Globalwarming gases data
 
 ![image](https://user-images.githubusercontent.com/56218284/236686021-936c09bb-b7d9-41b8-bd79-34e05ba877bf.png)
 
