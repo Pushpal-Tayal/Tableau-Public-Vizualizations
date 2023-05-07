@@ -1,5 +1,7 @@
+| **Original** | **Mine**|
+| --------- | --------|
+|![image](https://github.com/Pushpal-Tayal/Tableau-Public-Vizualizations/blob/main/NOAA-Global-Warming/Original.JPG)|![image](https://github.com/Pushpal-Tayal/Tableau-Public-Vizualizations/blob/main/NOAA-Global-Warming/Mine.JPG)> 
 
-![image](https://user-images.githubusercontent.com/56218284/236686021-936c09bb-b7d9-41b8-bd79-34e05ba877bf.png)
 
 [Source](https://data.world/makeovermonday/2023w1)
 
