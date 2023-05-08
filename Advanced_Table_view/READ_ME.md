@@ -1,19 +1,16 @@
 # Advanced Text Table
 
 | **My Vizualization**|
-| --------- | --------|
-| |
+| --------------|
+| ![image](https://user-images.githubusercontent.com/56218284/236887161-21caba02-345e-4a86-b3da-0c2a17890fbc.png)|
 
-Source : Superstore data provided in Tableau 2019.2 
+Source : https://workout-wednesday.com/2023w16tab/
 
-[Article](http://www.workout-wednesday.com/week-40-can-you-show-and-hide-your-sheets/)
-
-[Visualization](https://public.tableau.com/views/WW2019W40/Dashboard1?:display_count=y&:origin=viz_share_link)
+Visualization: https://public.tableau.com/views/Book1_16835655115580/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## What I learned
 
-- Create a dashboard
-- Learn how to sheet swap using parameters and calculated fields
-- Learn how to make preview sheets so all graphs are always being viewed in the main container or smaller containers
+- Created a text table with different formats
+- Learned how to add different measures to table keeping the size same
 
 
